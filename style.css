@@ -1,9 +1,25 @@
 body{
     font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0px;
+}
+.flexible-container{
+    display: flex;
+}
+#header-font{
+    font-size: 50px;
 }
 .orange-color{
     color: orange;
+}
+.first-section-div{
+    width: 50%;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.first-section-div img{
+    width: 70%;
 }
 .link-button{
     background-image: linear-gradient(rgba(221, 164, 58, 0.815), rgb(252, 58, 24));
