@@ -41,7 +41,7 @@ body{
     color: white;
     text-decoration: none;
 }
-.middle-section-heading{
+.grey-heading{
     font-size: 40px;
     color: grey;
     margin-bottom: 5%;
@@ -81,7 +81,16 @@ body{
     width: 33%;
     padding-left: 10%;
 }
+.like-boxes h1{
+    font-size: 50px;
+    color: rgb(83, 16, 16);
+    margin-bottom: 5%;
+}
 footer{
     background-color: black;
     text-align: center;
+}
+footer h1{
+    color: rgb(83, 83, 83);
+    margin-bottom: 20px;
 }
