@@ -34,7 +34,10 @@ nav a{
     margin-top: 15%;
     color: rgb(124, 124, 124);
     margin-bottom: 10%;
-
+}
+#shop-name{
+    font-size: 65px;
+    color: rgb(180, 75, 4);
 }
 .double-div{
     width: 50%;
@@ -99,6 +102,33 @@ nav a{
     font-size: 50px;
     color: rgb(83, 16, 16);
     margin-bottom: 5%;
+}
+.feedback{
+    padding: 5% 5%;
+    background-color: white;
+    margin: 5%;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+}
+.feedback-container{
+    display: flex;
+}
+#first-feedback-div{
+    width: 20%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    background-color: rgb(61, 60, 60);
+    text-align: center; 
+}
+#first-feedback-div h1{
+    color: rgb(192, 189, 189);
+}
+.feedback-div{
+    width: 40%;
+}
+.feedback-div a{
+    position: absolute  ;
 }
 footer{
     padding-top: 1%;
