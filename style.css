@@ -87,10 +87,15 @@ body{
     margin-bottom: 5%;
 }
 footer{
+    padding-top: 1%;
+    padding-bottom: 3%;
     background-color: black;
     text-align: center;
 }
 footer h1{
     color: rgb(83, 83, 83);
     margin-bottom: 20px;
+}
+footer p{
+    color: rgb(249, 251, 252);
 }
