@@ -2,6 +2,7 @@ body{
     font-family: 'Lato', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
     background-color: rgb(236, 234, 234);
+    margin: 0;
 }
 .flexible-container{
     margin-bottom: 50px;
@@ -40,14 +41,18 @@ body{
     color: white;
     text-decoration: none;
 }
-#standing-model{
-    width: 50%;
-    height: auto;
+.middle-section-heading{
+    font-size: 40px;
+    color: grey;
+    margin-bottom: 5%;
+}
+#second-section-parag{
+    margin-bottom: 15%;
 }
 .section-banner{
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
-    background-size: 100% 80%;
+    background-size: 100% 150%;
 }
 .my-recipies{
     margin-left: 20%;
@@ -58,7 +63,7 @@ body{
 .recipie-boxes{
     margin: 5%;
     padding: 2%;   
-    width: 28%;
+    width: 30%;
     background-color: white;
     border-radius: 20px;
 }
